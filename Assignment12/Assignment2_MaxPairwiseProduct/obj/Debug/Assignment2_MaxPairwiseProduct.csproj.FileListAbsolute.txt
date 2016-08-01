@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\Assignment2_MaxPairwiseProduct\Assignment2_MaxPairwiseProduct\bin\Debug\Assignment2_MaxPairwiseProduct.exe.config
+d:\documents\visual studio 2015\Projects\Assignment2_MaxPairwiseProduct\Assignment2_MaxPairwiseProduct\obj\Debug\Assignment2_MaxPairwiseProduct.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Assignment2_MaxPairwiseProduct\Assignment2_MaxPairwiseProduct\bin\Debug\Assignment2_MaxPairwiseProduct.exe
+d:\documents\visual studio 2015\Projects\Assignment2_MaxPairwiseProduct\Assignment2_MaxPairwiseProduct\bin\Debug\Assignment2_MaxPairwiseProduct.pdb
+d:\documents\visual studio 2015\Projects\Assignment2_MaxPairwiseProduct\Assignment2_MaxPairwiseProduct\obj\Debug\Assignment2_MaxPairwiseProduct.exe
+d:\documents\visual studio 2015\Projects\Assignment2_MaxPairwiseProduct\Assignment2_MaxPairwiseProduct\obj\Debug\Assignment2_MaxPairwiseProduct.pdb
