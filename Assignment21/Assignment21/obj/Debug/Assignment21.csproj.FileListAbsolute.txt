@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\Assignment21\Assignment21\bin\Debug\Assignment21.exe.config
+d:\documents\visual studio 2015\Projects\Assignment21\Assignment21\bin\Debug\Assignment21.exe
+d:\documents\visual studio 2015\Projects\Assignment21\Assignment21\bin\Debug\Assignment21.pdb
+d:\documents\visual studio 2015\Projects\Assignment21\Assignment21\obj\Debug\Assignment21.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Assignment21\Assignment21\obj\Debug\Assignment21.exe
+d:\documents\visual studio 2015\Projects\Assignment21\Assignment21\obj\Debug\Assignment21.pdb
